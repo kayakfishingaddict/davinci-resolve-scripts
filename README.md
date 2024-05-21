@@ -37,10 +37,14 @@ ex. [@KayakFishingAddict](https://youtube.com/kayakfishingaddict)
 ## Version History
 
 * 0.1
-  * Initial Release
+  * Initial Release - does not include DF support
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## Acknowledgments
+## Discussions & Background
+
+* [Video](https://youtu.be/TMY9J1RW6r4)
+* [DJI Forum Post](https://forum.dji.com/forum.php?mod=viewthread&tid=298365)
+* [What is timecode?](https://rode.com/en/about/news-info/what-is-timecode-and-why-do-you-need-it#:~:text=Timecode%20is%20a%20media%20synchronisation,to%20the%20individual%20video%20frame.)
