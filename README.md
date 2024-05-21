@@ -12,7 +12,9 @@ This script walks through the DJI video clips in the Media tab, identifies which
 
 ### Dependencies
 
-* Davinci Resolve 18.6 or higher
+* Davinci Resolve 18 or higher
+* Recordings from OSMO Action 4 cameras, synchronized with timecode reportedly only with looping mode turned on.
+* Video file names should be in the following format: DJI_20240506120600_0002_D_A00_003.MP4 which is the default.
 
 ### Installing
 
