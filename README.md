@@ -1,6 +1,6 @@
 # DJI OSMO Action 4 Serious Timecode Bug Fix
 
-This script fixes the timecode gap bug identified in this video [https://youtu.be/TMY9J1RW6r4](https://youtu.be/TMY9J1RW6r4).
+This [script](https://github.com/kayakfishingaddict/davinci-resolve-scripts/blob/master/DJI%20OA4%20Serious%20Timecode%20Bug%20Fix.lua) fixes the timecode gap bug identified in this video [https://youtu.be/TMY9J1RW6r4](https://youtu.be/TMY9J1RW6r4).
 
 ## Description
 
