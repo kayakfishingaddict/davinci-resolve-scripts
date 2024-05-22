@@ -1,14 +1,8 @@
 # DJI OSMO Action 4 Serious TimeCode Bug Fix
 
-This [script](https://github.com/kayakfishingaddict/davinci-resolve-scripts/blob/master/DJI%20OA4%20Serious%20Timecode%20Bug%20Fix.lua) fixes the timecode gap bug identified in this video [https://youtu.be/TMY9J1RW6r4](https://youtu.be/TMY9J1RW6r4):
+This [script](https://github.com/kayakfishingaddict/davinci-resolve-scripts/blob/master/DJI%20OA4%20Serious%20Timecode%20Bug%20Fix.lua) fixes the timecode gap bug identified in this video [https://youtu.be/TMY9J1RW6r4](https://youtu.be/TMY9J1RW6r4).
 
-[![Watch the video](https://img.youtube.com/vi/TMY9J1RW6r4/hqdefault.jpg
-)](https://youtu.be/TMY9J1RW6r4)
-
-Here's a [video](https://youtu.be/AW236xE3xqs) that shows how to install and run the script with an example of how it fixes the timecode bug:
-
-[![Watch the video](https://img.youtube.com/vi/AW236xE3xqs/hqdefault.jpg
-)](https://youtu.be/AW236xE3xqs)
+Here's a [video](https://youtu.be/AW236xE3xqs) that shows how to install and run the script with an example of how it fixes the timecode bug.
 
 ## Description
 
@@ -59,3 +53,11 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 * [Installation video for this script](https://youtu.be/AW236xE3xqs)
 * [DJI Forum Post](https://forum.dji.com/forum.php?mod=viewthread&tid=298365)
 * [What is timecode?](https://rode.com/en/about/news-info/what-is-timecode-and-why-do-you-need-it)
+
+## Related Videos
+
+[![Watch the video](https://img.youtube.com/vi/TMY9J1RW6r4/hqdefault.jpg
+)](https://youtu.be/TMY9J1RW6r4)
+
+[![Watch the video](https://img.youtube.com/vi/AW236xE3xqs/hqdefault.jpg
+)](https://youtu.be/AW236xE3xqs)
