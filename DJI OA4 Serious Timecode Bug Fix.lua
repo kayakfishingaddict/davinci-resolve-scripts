@@ -217,7 +217,10 @@ local function stringToTimecode(stringTimeCode)
     local kTCFormat = "(%d%d):(%d%d):(%d%d):(%d%d)"
     local i, j, hh, mm, ss, frms = string.find(stringTimeCode, kTCFormat)
     --print("stringToTimecode(" .. stringTimeCode ..") => " ..hh..":"..mm..":"..ss..":"..frms)
-    local tc = {secs = hh * 3600 + mm * 60 + ss, frames = frms}
+
+    -- bug fix: frames should be a number
+    local tc = {secs = hh * 3600 + mm * 60 + ss, frames = tonumber(frms)}
+    
     return tc;
 end
 
